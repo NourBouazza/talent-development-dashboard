@@ -17,7 +17,3 @@ Open `index.html` in a modern browser. No installation, server, dependencies, or
 ## Data and privacy
 
 Data is stored locally in the current browser using localStorage. It is not synchronized across browsers or devices; clearing browser data can remove it. Export a JSON backup if you need to keep or transfer your data. The application makes no network requests and uses no external services or telemetry. Use only fictional data for public demonstrations.
-
-## GitHub Pages
-
-To publish the dashboard, open the repository's **Settings → Pages**, select **Deploy from a branch**, and choose the `main` branch and `/ (root)` folder. GitHub will display the site URL when it is ready.
