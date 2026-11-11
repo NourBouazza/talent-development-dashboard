@@ -1,5 +1,7 @@
 # Talent Development Dashboard
 
+[Open the live dashboard](https://nourbouazza.github.io/talent-development-dashboard/)
+
 A lightweight, standalone dashboard for exploring a 9-box performance and potential matrix and tracking individual training plans. All included employee profiles are fictional demonstration data.
 
 ## Get started
